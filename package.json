@@ -1,17 +1,17 @@
 {
-    "name": "puddletown-gulp-snippets",
-    "main": "./lib/puddletown-gulp-snippets",
-    "version": "1.0.0",
-    "description": "A collection of Gulp snippets from Puddletown Design",
-    "keywords": [
-        "snippets",
-        "javascript",
-        "gulp"
-    ],
-    "repository": "https://github.com/PuddletownDesign/puddletown-gulp-snippets",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "puddletown-gulp-snippets",
+  "main": "./lib/puddletown-gulp-snippets",
+  "version": "1.0.1",
+  "description": "A collection of Gulp snippets from Puddletown Design",
+  "keywords": [
+    "snippets",
+    "javascript",
+    "gulp"
+  ],
+  "repository": "https://github.com/PuddletownDesign/puddletown-gulp-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
